@@ -72,11 +72,11 @@ gh repo clone SushanthRHegde/TriviaVerse
 
 3. **Run the application**:
 
-  Deploy the project on a local server and Run **index.html** and Access the application via your browser.
+    Deploy the project on a local server and Run **index.html** and Access the application via your browser.
 
 4. **Explore the Features**:
 
-  Register or log in as a user to start participating in quizzes.
+    Register or log in as a user to start participating in quizzes.
   Experience the dynamically loaded quizzes and the responsive design across different devices.
 
 
