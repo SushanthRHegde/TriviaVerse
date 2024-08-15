@@ -67,18 +67,17 @@ gh repo clone SushanthRHegde/TriviaVerse
 ```
 2. **Set up the database**:
 
-Create an SQL database and import the provided SQL file to set up the required tables.
-Update the database connection details in the config.php file.
+  Create an SQL database and import the provided SQL file to set up the required tables.
+  Update the database connection details in the config.php file.
 
 3. **Run the application**:
 
- Deploy the project on a local server and Run **index.html** and 
-Access the application via your browser.
+  Deploy the project on a local server and Run **index.html** and Access the application via your browser.
 
 4. **Explore the Features**:
 
-Register or log in as a user to start participating in quizzes.
-Experience the dynamically loaded quizzes and the responsive design across different devices.
+  Register or log in as a user to start participating in quizzes.
+  Experience the dynamically loaded quizzes and the responsive design across different devices.
 
 
 ----------
