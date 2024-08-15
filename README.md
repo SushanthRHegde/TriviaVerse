@@ -7,12 +7,24 @@
 <img width="1440" alt="homepage" src="https://github.com/user-attachments/assets/5eb4b899-9220-4425-8ab9-4f7e82ac397a">
 
 
+
+----------
+
+
 ## ➤ Footer 
 <img width="1440" alt="footer" src="https://github.com/user-attachments/assets/b28261aa-a9ac-4ae6-a130-0c947c772978">
+
+
+----------
+
 
 ## ➤ Quiz Interface
 ####
 <img width="1440" alt="quiz" src="https://github.com/user-attachments/assets/7081af8b-110a-4c05-9721-0d30214afa05">
+
+
+----------
+
 
 
 ## 🧐 Features    
@@ -29,6 +41,10 @@ Utilized HTML, CSS, and JavaScript to create a responsive and visually appealing
 Leveraged PHP for server-side scripting, enabling database integration 
 
 
+
+----------
+
+
 ## 🛠️ Tech Stack
 
 - **JavaScript**
@@ -37,6 +53,10 @@ Leveraged PHP for server-side scripting, enabling database integration
 - **HTML**
 -  **CSS**
 - **API**
+
+
+
+----------
 
 
 ## 🛠️ Getting Started   
@@ -61,19 +81,29 @@ Register or log in as a user to start participating in quizzes.
 Experience the dynamically loaded quizzes and the responsive design across different devices.
 
 
+----------
+
+
+
+## 🙇 Author
+#### Sushanth R Hegde
+- Linked-In: [@sushanthrhegde](https://www.linkedin.com/in/sushanthrhegde/)
+- Github: [@SushanthRHegde](https://github.com/SushanthRHegde)
+        
+        
+
+
+
+----------
+
+
+
+
 ## ❤️ Support  
 A simple star to this project repo is enough to keep me motivated on this project for days. If you find your self very much excited with this project let me know with a tweet.
 
 If you have any questions, feel free to reach out to me on [LinkedIN](https://www.linkedin.com/in/sushanthrhegde).
         
-## 🙇 Author
-#### Sushanth R Hegde
-- Linked-In: [@sushanthrhegde](https://www.linkedin.com/in/sushanthrhegde/)
-- Github: [@SusanthRHegde](https://github.com/SushanthRHegde)
-        
-        
-
-
         
 
         
