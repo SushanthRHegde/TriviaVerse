@@ -82,19 +82,12 @@ gh repo clone SushanthRHegde/TriviaVerse
 
 ----------
 
+## 🍰 Contributing    
+Contributions are welcome! If you have suggestions or want to contribute to this project, feel free to create an issue or submit a pull request. Any contributions you make are **greatly appreciated**.
 
-
-## 🙇 Author
-#### Sushanth R Hegde
-- Linked-In: [@sushanthrhegde](https://www.linkedin.com/in/sushanthrhegde/)
-- Github: [@SushanthRHegde](https://github.com/SushanthRHegde)
+Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md) & [contributing guidelines](CONTRIBUTING.md).
         
-        
-
-
-
 ----------
-
 
 
 
@@ -102,8 +95,16 @@ gh repo clone SushanthRHegde/TriviaVerse
 A simple star to this project repo is enough to keep me motivated on this project for days. If you find your self very much excited with this project let me know with a tweet.
 
 If you have any questions, feel free to reach out to me on [LinkedIN](https://www.linkedin.com/in/sushanthrhegde).
+
+----------  
         
+## 🙇 Author
+#### Sushanth R Hegde
+- Linked-In: [@sushanthrhegde](https://www.linkedin.com/in/sushanthrhegde/)
+- Github: [@SushanthRHegde](https://github.com/SushanthRHegde)
         
+
+
 
         
         
