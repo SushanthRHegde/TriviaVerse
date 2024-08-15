@@ -67,7 +67,7 @@ gh repo clone SushanthRHegde/TriviaVerse
 ```
 2. **Set up the database**:
 
-  Create an SQL database and import the provided SQL file to set up the required tables.
+    Create an SQL database and import the provided SQL file to set up the required tables.
   Update the database connection details in the config.php file.
 
 3. **Run the application**:
