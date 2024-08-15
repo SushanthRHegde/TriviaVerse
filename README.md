@@ -85,7 +85,7 @@ gh repo clone SushanthRHegde/TriviaVerse
 ## 🍰 Contributing    
 Contributions are welcome! If you have suggestions or want to contribute to this project, feel free to create an issue or submit a pull request. Any contributions you make are **greatly appreciated**.
 
-Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md) & [contributing guidelines](CONTRIBUTING.md).
+
         
 ----------
 
